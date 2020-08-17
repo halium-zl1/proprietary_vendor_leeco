@@ -651,14 +651,14 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
-    libthermalclient \
-    QtiTelephonyService \
-    uceShimService \
-    CNEService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon
+    libthermalclient 
+#    QtiTelephonyService \
+#    uceShimService \
+#    CNEService \
+#    WfdService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+#    WfdCommon
